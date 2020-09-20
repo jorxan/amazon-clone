@@ -15,6 +15,7 @@ export const initialState = {
           ...state,
           basket: [...state.basket, action.item],
         };
+
       
       case 'EMPTY_BASKET':
         return {

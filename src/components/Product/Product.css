@@ -10,6 +10,7 @@
     min-width: 100px;
     background-color: white;
     z-index: 1;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
   }
   
   .product__rating {
@@ -27,6 +28,7 @@
     background: #f0c14b;
     border: 1px solid;
     margin-top: 10px;
+    padding: 2px 5px 2px 5px;
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
   }
